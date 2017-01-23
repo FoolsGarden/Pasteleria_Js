@@ -54,10 +54,12 @@
 	visibility: hidden;
 	width: 768px;
 	margin: 0 auto;
+	text-align: left;
 }
 
 .recien-salidas {
 	text-align: center;
+	margin-top: 300px;
 }
 
 .clear {
